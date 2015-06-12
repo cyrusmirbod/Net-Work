@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'cucumber'
+gem 'capybara'
+gem 'rspec'
+gem 'page-object'
+gem 'require_all'
+gem 'fig_newton'
+gem 'data_magic'
+gem 'site_prism'
+gem 'test-unit'
+gem 'tiny_tds'
